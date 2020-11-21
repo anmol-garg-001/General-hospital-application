@@ -1,2 +1,0 @@
-C:\Users\garga\OneDrive\Documents\Seneca_GitHUB\OOP-Project\ms3\Debug\ms3.exe
-C:\Users\garga\OneDrive\Documents\Seneca_GitHUB\OOP-Project\ms3\Debug\ms3.pdb
